@@ -11,7 +11,9 @@ telnet 10.130.34.60 4000
 
 Download:
 Raspberry img file: https://my.pcloud.com/publink/show?code=XZfv2F7ZTE8Jdx9djMkFcwxEwieUJjnv3iA7
+
 Her til bruges SD Formatter til at formatter sd kort : https://www.sdcard.org/downloads/formatter_4/
+
 Win32Diskimager til at skrive img fil til sd kort eller til at lave backup af sd kort
 https://sourceforge.net/projects/win32diskimager/
 
