@@ -1,5 +1,7 @@
 ser2net-install-script
+
 Ser2net
+
 Man skal kende ip adressen på den rpi man skal bruge
 Hver rpi har 8 serial forbindelser (0-7)
 De bruges via Telnet fra pc som er på samme netværk som den rpi man bruger.
